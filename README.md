@@ -12,7 +12,7 @@ Source code for the Android app _MHGU Database_.
 
 List of To-Dos can be found on our [Trello Board](https://trello.com/b/tI4PYsgH/mhgen-database)
 
-Join our team on [Slack](gatheringhallstudios.slack.com). Request a slack invitation via <jayson.p.delacruz@gmail.com>
+Join our team on [Slack](https://gatheringhallstudios.slack.com). Request a slack invitation via <jayson.p.delacruz@gmail.com>
 
 You can also freely join our [Discord](https://discord.gg/k5rmEWh).
 
